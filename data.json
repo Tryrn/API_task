@@ -1,0 +1,410 @@
+{
+    "externalId": "14472b46b15c4106b0a74d0843702d11",
+    "day": "2024-02-03T00:00:00",
+    "dateOfLastChange": "2024-05-10T09:36:16.1431922",
+    "market": "FCR-D-D1",
+    "status": "SentToTradingSystem",
+    "country": "Sweden",
+    "series": [
+        {
+            "externalId": "myDummyTaestExtaernad1",
+            "customerId": "TestCustomer",
+            "status": "Undefined",
+            "direction": "Up",
+            "currency": "EUR",
+            "priceArea": "SE1",
+            "assetId": "TestAssetSE1",
+            "price": 25.8,
+            "startInterval": "2024-02-03T02:00:00",
+            "endInterval": "2024-02-03T14:00:00",
+            "resolution": "PT1H",
+            "positions": [
+                {
+                    "quantity": 5.0
+                },
+                {
+                    "quantity": 10.0
+                },
+                {
+                    "quantity": 15.0
+                },
+                {
+                    "quantity": 20.0
+                },
+                {
+                    "quantity": 5.0
+                },
+                {
+                    "quantity": 10.0
+                },
+                {
+                    "quantity": 15.0
+                },
+                {
+                    "quantity": 20.0
+                },
+                {
+                    "quantity": 5.0
+                },
+                {
+                    "quantity": 10.0
+                },
+                {
+                    "quantity": 15.0
+                },
+                {
+                    "quantity": 20.0
+                }
+            ]
+        },
+        {
+            "externalId": "e44fd4d4e0e24ab98b4ceffd4a01f9b5",
+            "customerId": "TestCustomer",
+            "status": "Undefined",
+            "direction": "Up",
+            "currency": "EUR",
+            "priceArea": "SE1",
+            "assetId": "TestAssetSE1",
+            "price": 27.8,
+            "startInterval": "2024-02-02T23:00:00",
+            "endInterval": "2024-02-03T23:00:00",
+            "resolution": "PT1H",
+            "positions": [
+                {
+                    "quantity": 5.0
+                },
+                {
+                    "quantity": 10.0
+                },
+                {
+                    "quantity": 15.0
+                },
+                {
+                    "quantity": 20.0
+                },
+                {
+                    "quantity": 5.0
+                },
+                {
+                    "quantity": 10.0
+                },
+                {
+                    "quantity": 15.0
+                },
+                {
+                    "quantity": 20.0
+                },
+                {
+                    "quantity": 5.0
+                },
+                {
+                    "quantity": 10.0
+                },
+                {
+                    "quantity": 15.0
+                },
+                {
+                    "quantity": 20.0
+                },
+                {
+                    "quantity": 5.0
+                },
+                {
+                    "quantity": 10.0
+                },
+                {
+                    "quantity": 15.0
+                },
+                {
+                    "quantity": 20.0
+                },
+                {
+                    "quantity": 5.0
+                },
+                {
+                    "quantity": 10.0
+                },
+                {
+                    "quantity": 15.0
+                },
+                {
+                    "quantity": 20.0
+                },
+                {
+                    "quantity": 5.0
+                },
+                {
+                    "quantity": 10.0
+                },
+                {
+                    "quantity": 15.0
+                },
+                {
+                    "quantity": 20.0
+                }
+            ]
+        },
+        {
+            "externalId": "9147bfe23db6475b8904831ada517ac0",
+            "customerId": "TestCustomer",
+            "status": "Undefined",
+            "direction": "Up",
+            "currency": "EUR",
+            "priceArea": "SE1",
+            "assetId": "TestAssetSE1",
+            "price": 26.8,
+            "startInterval": "2024-02-02T23:00:00",
+            "endInterval": "2024-02-03T23:00:00",
+            "resolution": "PT1H",
+            "positions": [
+                {
+                    "quantity": 15.0
+                },
+                {
+                    "quantity": 15.0
+                },
+                {
+                    "quantity": 10.0
+                },
+                {
+                    "quantity": 5.0
+                },
+                {
+                    "quantity": 5.0
+                },
+                {
+                    "quantity": 15.0
+                },
+                {
+                    "quantity": 10.0
+                },
+                {
+                    "quantity": 22.0
+                },
+                {
+                    "quantity": 5.0
+                },
+                {
+                    "quantity": 13.0
+                },
+                {
+                    "quantity": 18.0
+                },
+                {
+                    "quantity": 21.0
+                },
+                {
+                    "quantity": 15.0
+                },
+                {
+                    "quantity": 13.0
+                },
+                {
+                    "quantity": 12.0
+                },
+                {
+                    "quantity": 20.0
+                },
+                {
+                    "quantity": 5.0
+                },
+                {
+                    "quantity": 10.0
+                },
+                {
+                    "quantity": 15.0
+                },
+                {
+                    "quantity": 20.0
+                },
+                {
+                    "quantity": 5.0
+                },
+                {
+                    "quantity": 10.0
+                },
+                {
+                    "quantity": 15.0
+                },
+                {
+                    "quantity": 20.0
+                }
+            ]
+        },
+        {
+            "externalId": "4bee3c7fa0ba43999697e3cd1491d3a3",
+            "customerId": "TestCustomer",
+            "status": "Undefined",
+            "direction": "Up",
+            "currency": "EUR",
+            "priceArea": "SE1",
+            "assetId": "TestAssetSE1",
+            "price": 29.8,
+            "startInterval": "2024-02-02T23:00:00",
+            "endInterval": "2024-02-03T23:00:00",
+            "resolution": "PT1H",
+            "positions": [
+                {
+                    "quantity": 5.0
+                },
+                {
+                    "quantity": 5.0
+                },
+                {
+                    "quantity": 5.0
+                },
+                {
+                    "quantity": 5.0
+                },
+                {
+                    "quantity": 5.0
+                },
+                {
+                    "quantity": 5.0
+                },
+                {
+                    "quantity": 5.0
+                },
+                {
+                    "quantity": 5.0
+                },
+                {
+                    "quantity": 5.0
+                },
+                {
+                    "quantity": 5.0
+                },
+                {
+                    "quantity": 5.0
+                },
+                {
+                    "quantity": 5.0
+                },
+                {
+                    "quantity": 5.0
+                },
+                {
+                    "quantity": 5.0
+                },
+                {
+                    "quantity": 5.0
+                },
+                {
+                    "quantity": 0.0
+                },
+                {
+                    "quantity": 0.0
+                },
+                {
+                    "quantity": 0.0
+                },
+                {
+                    "quantity": 0.0
+                },
+                {
+                    "quantity": 0.0
+                },
+                {
+                    "quantity": 5.0
+                },
+                {
+                    "quantity": 5.0
+                },
+                {
+                    "quantity": 5.0
+                },
+                {
+                    "quantity": 5.0
+                }
+            ]
+        },
+        {
+            "externalId": "f16dd89eff5a455cb0c887ac807491ae",
+            "customerId": "TestCustomer",
+            "status": "Undefined",
+            "direction": "Up",
+            "currency": "EUR",
+            "priceArea": "SE2",
+            "assetId": "TestAssetSE2",
+            "price": 45.3,
+            "startInterval": "2024-02-03T14:00:00",
+            "endInterval": "2024-02-03T18:00:00",
+            "resolution": "PT1H",
+            "positions": [
+                {
+                    "quantity": 5.0
+                },
+                {
+                    "quantity": 10.0
+                },
+                {
+                    "quantity": 15.0
+                },
+                {
+                    "quantity": 20.0
+                }
+            ]
+        },
+        {
+            "externalId": "e4a181db9be44aa0b9abf4a151b70599",
+            "customerId": "TestCustomer",
+            "status": "Undefined",
+            "direction": "Up",
+            "currency": "EUR",
+            "priceArea": "SE3",
+            "assetId": "TestAssetSE3",
+            "price": 45.7,
+            "startInterval": "2024-02-03T16:00:00",
+            "endInterval": "2024-02-03T20:00:00",
+            "resolution": "PT1H",
+            "positions": [
+                {
+                    "quantity": 7.0
+                },
+                {
+                    "quantity": 13.0
+                },
+                {
+                    "quantity": 3.0
+                },
+                {
+                    "quantity": 20.0
+                }
+            ]
+        },
+        {
+            "externalId": "65ffadcaf26842b390175079207e326c",
+            "customerId": "TestCustomer",
+            "status": "Undefined",
+            "direction": "Down",
+            "currency": "EUR",
+            "priceArea": "SE3",
+            "assetId": "TestAssetSE3",
+            "price": 22.7,
+            "startInterval": "2024-02-03T16:00:00",
+            "endInterval": "2024-02-03T20:00:00",
+            "resolution": "PT1H",
+            "positions": [
+                {
+                    "quantity": 7.0
+                },
+                {
+                    "quantity": 13.0
+                },
+                {
+                    "quantity": 3.0
+                },
+                {
+                    "quantity": 20.0
+                }
+            ]
+        }
+    ],
+    "updateHistory": [
+        {
+            "updateTime": "2024-05-10T09:36:16.1431922",
+            "fromStatus": "Undefined",
+            "toStatus": "SentToTradingSystem"
+        }
+    ]
+}
